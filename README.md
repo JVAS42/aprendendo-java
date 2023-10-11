@@ -14,7 +14,7 @@ Participei do curso "A partir do zero: HTML e CSS para projetos web" para aprend
 
 ##
 
-### Certificado:
+### Descrição:
 
 Livro de exercícios: [Introdução à programação orientada a objeto usando Java de Rafael Santos](https://drive.google.com/file/d/1GCacqnvXLi2P90iL8O-6h0JIf1dkHxtA/view?usp=drive_link)
 
