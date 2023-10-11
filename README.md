@@ -5,7 +5,7 @@
   </p>
 </div>
 
-Participei do curso "A partir do zero: HTML e CSS para projetos web" para aprender habilidades fundamentais de desenvolvimento web. Rapidamente Dominei parte do HTML e CSS para aplicar meus conhecimentos em projetos reais.
+Para armazenar e compartilhar projetos de programação Java, permitindo o acompanhamento e aprimoramento de minhas habilidades por meio de códigos e recursos educacionais
 
 ### Objetivos
 
