@@ -1,0 +1,9 @@
+3.5. A palavra NEW estabelece um novo objeto.
+
+3.6. O construtor padrão é um construtor sem nenhum argumento, conhecido também como construtor vazio. E as variável de instância são iniciadas como Null, nesse caso.
+public Exemplo () {
+	// Vazio
+}
+
+3.7. As variável de instância é uma varíavel cujo valor é específico ao objeto e não à classe. Logo, conseguimos criar objetos com suas próprias característica.
+
