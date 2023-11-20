@@ -7,3 +7,6 @@ public Exemplo () {
 
 3.7. As variável de instância é uma varíavel cujo valor é específico ao objeto e não à classe. Logo, conseguimos criar objetos com suas próprias característica.
 
+3.8. Porque eles fazem parte do pacote do Java.lang, o unico pacote que ja vem importado automaticamente
+
+3.9. Apenas se a classe estiver dentro do pacote Java.util
