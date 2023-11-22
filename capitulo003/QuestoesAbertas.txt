@@ -10,3 +10,5 @@ public Exemplo () {
 3.8. Porque eles fazem parte do pacote do Java.lang, o unico pacote que ja vem importado automaticamente
 
 3.9. Apenas se a classe estiver dentro do pacote Java.util
+
+3.10. Para ter um bom encapsulamento, visto que com instâncias Private, a reutilização de código se torna mais viável.
