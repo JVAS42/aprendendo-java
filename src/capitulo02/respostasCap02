@@ -6,3 +6,7 @@ b) True.
 c) False. Espaço não foi alacado.
 d) False. Pode ser usado com outros tipos primitivos.
 e) False. Tem nível de precedência diferentes.
+
+2.4
+a) O ; no final do IF
+b) O correto seira (c >= 7)
