@@ -1,3 +1,7 @@
 3.5. (Palavra-chave new) - O operador NEW eh usado para criar uma nova instancia de uma classe, ou seja o objeto de uma determinada classe.
 
 3.6. (Construtores padrão) - Um construtor PADRAO eh aquele que nao recebe nenhum parametro espefico. E elas sao inicializadas de forma padrao e pelo construtor padrao.
+
+3.7. (Variáveis de instância) - Sao variaveis atreladas ao objeto da classe e nao a classe em si.
+
+3.8. (Usando classes sem importá-las) - Porque os metodos da classe SYSTEM sao estaticos, ou seja, nao precisam ser instaciadas.
