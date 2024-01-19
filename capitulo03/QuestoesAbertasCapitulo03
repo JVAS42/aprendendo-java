@@ -5,3 +5,15 @@
 3.7. (Variáveis de instância) - Sao variaveis atreladas ao objeto da classe e nao a classe em si.
 
 3.8. (Usando classes sem importá-las) - Porque os metodos da classe SYSTEM sao estaticos, ou seja, nao precisam ser instaciadas.
+
+3.9. (Usando uma classe sem importá-la) - Porque os metodos da classe SYSTEM sao estaticos.
+
+3.10. (Métodos set e get) - Para um bom encasulamento e para que haja reutilizacao de codigo da classe em especifico.
+
+  TIPOVAR getVar() {
+    return var;
+  }
+
+  void setVar(TIPOVAR var) {
+    this.var = var;
+  }
