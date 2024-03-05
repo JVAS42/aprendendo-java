@@ -9,7 +9,7 @@ Para armazenar e compartilhar projetos de programação Java, permitindo o acomp
 
 ### Objetivos
 
-- Revisar conceitos da linguagem diariamente (3 ~ 4 Videos por dia);
+- Revisar conceitos da linguagem diariamente (8 ~ 10 Videos por dia);
 - Fazer exercícios diários em Java;
 - Desenvolver projetos sozinho em Java;
 
