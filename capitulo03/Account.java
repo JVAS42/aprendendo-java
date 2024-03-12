@@ -17,7 +17,7 @@ public class Account {
         }
     }
 
-    //Classe criada para a questao 3.11
+    //Classe criada para a questão 3.11 do Deitel
     public boolean withdraw(double value) {
         if(this.balance >= value) {
             this.balance -= value;
