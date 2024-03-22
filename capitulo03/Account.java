@@ -14,7 +14,7 @@ public class Account {
     public void deposit(double depositAmount) {
         if(depositAmount > 0.0) {
             balance = balance + depositAmount;
-        }
+        } //No livro Deitel só tem esse IF, mas quando chegamos na questão 3.15 esse IF estruturado dessa forma, a questão saí errada
     }
 
     //Classe criada para a questão 3.11 do Deitel
