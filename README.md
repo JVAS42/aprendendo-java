@@ -9,7 +9,6 @@ Para armazenar e compartilhar projetos de programação Java, permitindo o acomp
 
 ### Objetivos
 
-- Revisar conceitos da linguagem diariamente (8 ~ 10 Videos por dia);
 - Fazer exercícios diários em Java;
 - Desenvolver projetos sozinho em Java;
 
@@ -17,11 +16,12 @@ Para armazenar e compartilhar projetos de programação Java, permitindo o acomp
 
 ### Descrição:
 
-Curso: [Maratona Java - DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
-![image](https://github.com/JVAS42/aprendendo-java/assets/61116930/c5380225-2e07-4122-a7ca-24e091392ecf)
+Cursos: 
+<br>[Bootcamp Back-end Java](https://cursos.alura.com.br/bootcamp-back-end-jvasprogramando-1692837621144-p646024)
+<br>[Formação Java Web Full-Stack](https://www.jdevtreinamento.com.br/formacao-java-web-profissional/index.html)
 
 
 
 Livro de exercícios: [Java®: Como Programar - Deitel](https://drive.google.com/file/d/1E0MrWsxnSVlfcIJ1Ev5qK02OrwsOxTy5/view)
-![image](https://github.com/JVAS42/aprendendo-java/assets/61116930/4d9f6746-9dec-4e94-9123-d11398ed6907)
 
+![image](https://github.com/JVAS42/aprendendo-java/assets/61116930/ad642e67-e181-432d-b49f-cadcbf7e3a35)
