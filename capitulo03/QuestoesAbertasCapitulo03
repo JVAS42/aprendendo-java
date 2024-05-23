@@ -17,3 +17,5 @@
   void setVar(TIPOVAR var) {
     this.var = var;
   }
+
+// SE TIVER ESSA LINHA, EU CONSEGUI APRENDER O BÁSICO DE GIT
